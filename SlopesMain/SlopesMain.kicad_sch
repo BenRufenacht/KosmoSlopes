@@ -1,0 +1,48 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 7234d510-7d63-441b-9b13-b0be93415540)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 130.175 73.025) (size 22.225 35.56) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 06a46058-b0d3-4989-bc69-9142430dd9e0)
+    (property "Sheetname" "Slope Main 2" (at 130.175 72.3134 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "SlopeMain2.kicad_sch" (at 130.175 109.1696 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "SlopesMain"
+        (path "/7234d510-7d63-441b-9b13-b0be93415540" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 85.09 74.93) (size 18.415 31.75) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 8bf6b0e8-16c2-4614-b035-f7edd45aeb48)
+    (property "Sheetname" "Slope Main 1" (at 85.09 74.2184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "SlopeMain1.kicad_sch" (at 85.09 107.2646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "SlopesMain"
+        (path "/7234d510-7d63-441b-9b13-b0be93415540" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
