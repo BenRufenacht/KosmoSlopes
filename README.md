@@ -5,7 +5,8 @@
   <img src="KosmoSlope.jpg" width="200" title="Kosmo Slope">
 </p>
 
-[Build Docs from Kassutronics](https://github.com/kassu/kassutronics/blob/master/documentation/Quantizer/Quantizer_Build_Docs_1.1A.pdf)
+[Build Docs from Kassutronics](https://github.com/kassu/kassutronics/blob/master/documentation/Slope/Kassutronics_Slope_Build_Docs_2.0B.pdf)
+
 
 Status:   
 February 2023 - First run of manufacturing found some minor mistakes that were fixed, but the updates to the main board have not been tested.
