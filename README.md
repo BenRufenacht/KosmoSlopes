@@ -2,7 +2,7 @@
  Kosmo Version of the Kassutronics Slope Module
 
  <p align="center">
-  <img src="KosmoSlope.jpg" width="200" title="Kosmo Slope">
+  <img src="KosmoSlope.jpg" width="400" title="Kosmo Slope">
 </p>
 
 [Build Docs from Kassutronics](https://github.com/kassu/kassutronics/blob/master/documentation/Slope/Kassutronics_Slope_Build_Docs_2.0B.pdf)
